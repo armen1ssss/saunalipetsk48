@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saunalipetsk48.ru/sitemap.xml
